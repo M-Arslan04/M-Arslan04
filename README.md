@@ -14,7 +14,7 @@ www.purplecarrot.com : A Ruby on Rails application that provides fresh mealkit b
 
 www.alisuq.com :  A ReactJS and Ruby on Rails project, Alisuq is an online marketplace for materials, do-it-yourself products and tools.
 
-My Portfolio: https://portfolio-snowy-omega-96.vercel.app/
+My Portfolio: https://www.marslanfarooq.com/
 
 Contact Me
 
