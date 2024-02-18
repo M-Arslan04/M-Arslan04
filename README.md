@@ -22,6 +22,6 @@ Check out my professional journey and project portfolio here: [marslanfarooq.com
 I'm keen on collaborating and sharing ideas with fellow developers. Feel free to reach out to me:
 
 - **Email:** arsimalik66@gmail.com 📧
-- **LinkedIn:** [malik-arslan](https://www.linkedin.com/in/malik-arslan-706832125)
+- **LinkedIn:** [malik-arslan](https://www.linkedin.com/in/marslan01/)
 
 Thank you for stopping by my profile. Let's explore and build amazing things together!
