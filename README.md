@@ -1,28 +1,27 @@
-**Welcome to My GitHub Profile!**
+# Welcome to Malik Arslan Farooq's GitHub Profile! 🚀
 
-Hello there! My name is **Malik Arslan Farooq**, and I'm thrilled to have you visit my GitHub profile. Here, you'll find a collection of my projects and contributions related to Ruby on Rails, ReactJS, NextJS, TypeScript, and more. With a passion for web development and 3 years of combined experience, I'm constantly exploring new technologies and building exciting applications.
+## Hello There! 👋
 
-**About Me**
+My name is **Malik Arslan Farooq**, and I'm excited to share my journey in web development with you. With over 3 years of experience, my GitHub hosts a variety of projects showcasing my skills in **Ruby on Rails**, **ReactJS**, **NextJS**, and **TypeScript**. I'm dedicated to learning and applying new technologies to build innovative and user-friendly applications.
 
-I'm a software developer specializing in full-stack web development. I have a strong command of Ruby on Rails, leveraging its robustness and elegance to create scalable and efficient back-end solutions. On the front-end side, I'm well-versed in ReactJS and NextJS, crafting engaging user interfaces and seamless user experiences. Additionally, I have hands-on experience with TypeScript, ensuring type safety and improved maintainability in my projects.
+## About Me 🌟
 
-**Projects**
+As a full-stack web developer, I thrive on creating end-to-end solutions. My expertise in **Ruby on Rails** has allowed me to develop scalable back-end architectures, while my proficiency in **ReactJS** has enabled me to craft immersive front-end experiences. My commitment to code quality is further supported by my use of **TypeScript**, enhancing project maintainability and robustness.
 
-Here are a few notable projects I've worked on:
+## Highlighted Projects 📚
 
-  - www.purplecarrot.com: A Ruby on Rails application that provides fresh mealkit boxes
+- **[Purple Carrot](www.purplecarrot.com):** A Ruby on Rails-based platform delivering fresh, plant-based mealkit boxes directly to your door.
+- **[Alisuq](www.alisuq.com):** An online marketplace built with ReactJS and Ruby on Rails, catering to DIY enthusiasts with a wide range of materials and tools.
 
-  - www.alisuq.com:  A ReactJS and Ruby on Rails project, Alisuq is an online marketplace for materials, do-it-yourself products and tools.
+## My Portfolio 🌐
 
-**My Portfolio** 🔽 
- - https://www.marslanfarooq.com/
+Check out my professional journey and project portfolio here: [marslanfarooq.com](https://www.marslanfarooq.com/)
 
-**Contact Info** 📫
+## Let's Connect! 📫
 
-I'm always open to connecting with fellow developers and discussing exciting opportunities. You can reach me through the following channels:
+I'm keen on collaborating and sharing ideas with fellow developers. Feel free to reach out to me:
 
-  - Email: 📧 arsimalik66@gmail.com
+- **Email:** arsimalik66@gmail.com 📧
+- **LinkedIn:** [malik-arslan](https://www.linkedin.com/in/malik-arslan-706832125)
 
-  - LinkedIn: https://www.linkedin.com/in/malik-arslan-706832125
-
-Let's connect and build amazing things together! 🚀
+Thank you for stopping by my profile. Let's explore and build amazing things together!
