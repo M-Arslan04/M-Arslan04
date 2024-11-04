@@ -10,9 +10,9 @@ As a full-stack web developer, I thrive on creating end-to-end solutions. My exp
 
 ## Highlighted Projects 📚
 
-- **[Purple Carrot](www.purplecarrot.com):** A Ruby on Rails-based platform delivering fresh, plant-based mealkit boxes directly to your door.
-- **[Elocker](www.elocker.com):** A React.js-powered digital locker management system featuring streamlined user interfaces, automated OCR data entry from Zebra screens, and customizable branding options for tailored user experiences.
-- **[Alisuq](www.alisuq.com):** An online marketplace built with ReactJS and Ruby on Rails, catering to DIY enthusiasts with a wide range of materials and tools.
+- **[Purple Carrot](https://www.purplecarrot.com):** A Ruby on Rails-based platform delivering fresh, plant-based mealkit boxes directly to your door.
+- **[Elocker](https://www.elocker.com):** A React.js-powered digital locker management system featuring streamlined user interfaces, automated OCR data entry from Zebra screens, and customizable branding options for tailored user experiences.
+- **[Alisuq](https://www.alisuq.com):** An online marketplace built with ReactJS and Ruby on Rails, catering to DIY enthusiasts with a wide range of materials and tools.
 
 ## My Portfolio 🌐
 
